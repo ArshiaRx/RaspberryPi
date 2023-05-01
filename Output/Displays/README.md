@@ -22,4 +22,19 @@ Components used for this experiment
 -------------------------------------------------------
 
 #### 1.1.2 RGB LED
-Coming soon ...
+Components used for this experiment
+
+- 1 x Raspberry Pi
+
+- 1 x T-Extension Board
+
+- 1 x Breadboard
+
+- 1 x RGB LED
+
+- 1 x 40-pin Cable
+
+- 3 x 220 Ohm Resistor
+
+- 1 x Jumper Wire
+
