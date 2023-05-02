@@ -6,7 +6,10 @@ import RPi._GPIO as GPIO
 import time   
 
 #Setting color in Hexadecimal
+
 #          RED       GREEN    YELLOW     PURPLE   BLUE
+#
+#>>>>>>> main
 COLOR = [0xFF0000, 0X00FF00, 0xFFFF00, 0xFF00FF, 0x00FFFF]
 
 #Set pin's channel with dictionary
@@ -83,5 +86,3 @@ if __name__ == '__main__':
         main()
     except KeyboardInterrupt:
         destroy()
-    
-
