@@ -29,7 +29,7 @@ def main():
                                 time.sleep(0.1)
                                 GPIO.output(LedPin, GPIO.HIGH)
                                 time.sleep(0.1)
-                        camera.capture('/home/matrix/Desktop/RaspberryPi/Extension/4.1.1 - Camera/my_photo.jpg')
+                        camera.capture('/home/matrix/Desktop/RaspberryPi/Extension/Camera/my_photo.jpg')
                         print ('Take a photo!')
                         status = False
                 else:
