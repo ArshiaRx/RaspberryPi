@@ -38,6 +38,6 @@ if __name__ == '__main__':
     try:
         main()
     # When 'ctrl+C' is pressed, the program destroy() will be executed.
-    except keyboardInterrupt:
+    except KeyboardInterrupt:
         destroy()
         
